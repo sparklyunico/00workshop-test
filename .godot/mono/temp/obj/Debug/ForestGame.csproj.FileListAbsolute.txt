@@ -1,0 +1,17 @@
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\ForestGame.deps.json
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\ForestGame.runtimeconfig.json
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\ForestGame.dll
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\ForestGame.pdb
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.csproj.AssemblyReference.cache
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.AssemblyInfoInputs.cache
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.AssemblyInfo.cs
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.csproj.CoreCompileInputs.cache
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.csproj.CopyComplete
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.dll
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\refint\ForestGame.dll
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.pdb
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ForestGame.genruntimeconfig.cache
+C:\Users\rites\Documents\ForestGame\ForestGameDev\.godot\mono\temp\obj\Debug\ref\ForestGame.dll
